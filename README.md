@@ -1,0 +1,2 @@
+# Heart-Disease-Prediction-Machine-Learning-Project-
+Cardiovascular diseases are the leading cause of death globally. It is therefore necessary to identify the causes and develop a system to predict heart attacks in an effective manner. The analysis here is to perform preliminary data inspection and report the findings on the structure of the data, missing values, duplicates, etc. Based on these findings, we have to remove duplicates (if any) and treat missing values using an appropriate strategy.
